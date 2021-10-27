@@ -1,4 +1,4 @@
-# WebPractice_04
+# WebPractice_04_portfolio
 Udemy course practice project.
 
 https://johnpantswork-webpractice-portfolioproject.netlify.app/
